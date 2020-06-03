@@ -45,7 +45,7 @@ body{
 /* title image */
 .title-image {
   width: 60%;
-  transform: rotate(25deg);
+  /*transform: rotate(25deg);*/
   position: absolute;
   right: 30%;
   top: 10%;
